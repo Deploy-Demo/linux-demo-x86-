@@ -1,0 +1,6 @@
+/home/ubuntu/suliang_git/PaddleX-release-2.0.0/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/suliang_git/PaddleX-release-2.0.0/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/edit_cache.dir
+/home/ubuntu/suliang_git/PaddleX-release-2.0.0/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/debuggable.dir
+/home/ubuntu/suliang_git/PaddleX-release-2.0.0/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/releasable.dir
+/home/ubuntu/suliang_git/PaddleX-release-2.0.0/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/yaml-cpp.dir
+/home/ubuntu/suliang_git/PaddleX-release-2.0.0/deploy/cpp/build/ext/yaml-cpp/src/ext-yaml-cpp-build/CMakeFiles/format.dir
